@@ -1,0 +1,233 @@
+[
+{
+		"charity": "PoE Monthly Reward Pool",
+		"EGCaddress": "EWtVmSQbrR7ZTxBgykbPKpgJtL2JZuDt7T",
+		"url": "https://evergreencoin.org/proof-of-environment/",
+		"img": "https://evergreencoin.org/logos/1x/proofofenmdpi.png",
+		"EGCurl": "https://evergreencoin.org/poe/",
+		"EGCimg": "https://evergreencoin.org/logos/1x/proofofen-txtmdpi.png",
+		"thanks": "Thank you for donating to this month's <a href='https://evergreencoin.org/poe/'>Proof of Environment</a> reward pool.",
+		"ask": "Please consider donating to this month's <a href='https://evergreencoin.org/poe/'>Proof of Environment</a> reward pool to help encourage submissions.",
+		"thanksOnly": "Thank you for donating to this month's <a href='https://evergreencoin.org/poe/'>Proof of Environment</a> reward pool."
+	},
+	{
+		"charity": "Urban Gardens Donation",
+		"EGCaddress": "Eeg97i8RkPVLxcumJqWLWdA9vw1PPpVzN8",
+		"url": "https://evergreencoin.org/egcgardens/",
+		"img": "https://evergreencoin.org/logos/1x/gardensmdpi.png",
+		"EGCurl": "https://evergreencoin.org/egcgardens/",
+		"EGCimg": "https://evergreencoin.org/logos/1x/garden-txtmdpi.png",
+		"thanks": "<a href='https://evergreencoin.org/egcgardens/'>EverGreenCoin Gardens</a> outreach and promotion for urban gardens and gardeners.",
+		"ask": "Please consider supporting our <a href='https://evergreencoin.org/egcgardens/'>EverGreenCoin Gardens</a> branch.",
+		"thanksOnly": "Thanks for supporting our <a href='https://evergreencoin.org/egcgardens/'>EverGreenCoin Gardens</a> branch."
+	},
+	{
+		"charity": "I.E.O. Direct Donation",
+		"EGCaddress": "EKsvjis689QM2QGxNvkrmFEqLiFmmKAXGk",
+		"url": "http://ieoinvest.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2017/09/logo-300x179-1-e1514366065244.png",
+		"EGCurl": "https://evergreencoin.org/directory/increased-economic-opportunities-inc/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2017/12/partnership_egcieo.png",
+		"thanks": "Help <a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a> through direct donation.",
+		"ask": "Direct donation to <a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a>",
+		"thanksOnly": "<a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a> thanks you!"
+	},
+	{
+		"charity": "EGC Renewables Donation",
+		"EGCaddress": "EamRBfnttBGkY1WKY3k5tUi4VVinr6Dpmo",
+		"url": "https://evergreencoin.org/egcrenewables/",
+		"img": "https://evergreencoin.org/logos/1x/renewablesmdpi.png",
+		"EGCurl": "https://evergreencoin.org/egcrenewables/",
+		"EGCimg": "https://evergreencoin.org/logos/1x/renewables-txtmdpi.png",
+		"thanks": "Thanks in advance for helping with on-going development and equipment costs of the Solar Web Wallet System and the EGC Solar Staker projects.",
+		"ask": "Please help us absorb the many costs associated with the <a href='https://evergreencoin.org/egcrenewables/'>EGC Solar Web Wallet System</a> and EGC Solar Stake Box projects.",
+		"thanksOnly": "Thank you for supporting these on-going costs of the EGC solar web wallets and EGC solar stake box projects."
+	},
+	{
+		"charity": "Wolfman Farms Urban Garden Direct Donation",
+		"EGCaddress": "EK8hHyGU47j1NzyK8Nyo92yjXXBKEP9ZSU",
+		"url": "https://twitter.com/HartonFarms",
+		"img": "https://evergreencoin.org/wp-content/uploads/2019/01/WolfmanFarms.png",
+		"EGCurl": "http://evergreencoin.org/EGCGardens/",
+		"EGCimg": "https://evergreencoin.org/logos/1x/garden-txtmdpi.png",
+		"thanks": "Direct donations to Harton Farms urban garden in Kansas City, Missouri.",
+		"ask": "Please help support Wolfman Farms urban garden in Kansas City, Missouri, via direct donation.",
+		"thanksOnly": "Thank you for helping to support Wolfman Farms urban garden in Kansas City, Missouri, via direct donation."
+	},
+	{
+		"charity": "Trees For Cities Donation Fund",
+		"EGCaddress": "EZ6w2gtdskCmBuNpMcpdLXgpcxh7fMb2wr",
+		"url": "https://treesforcities.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2018/10/T4Csquare.png",
+		"EGCurl": "https://twitter.com/EverGreenCoin_/status/997361389785305088",
+		"EGCimg": "https://pbs.twimg.com/media/DX5l25jWkAAZpmz.jpg",
+		"thanks": "Collecting a group donation for <a href='https://treesforcities.org/' target='_blank'>Trees for Cities.org</a> as <a href='https://twitter.com/MatthiasTramni1/status/971044671601463296' target='_blank'>requested</a> by the community.",
+		"ask": "Please help us gather a donation for <a href='https://treesforcities.org/' target='_blank'>Trees for Cities.org</a> as <a href='https://twitter.com/MatthiasTramni1/status/971044671601463296' target='_blank'>requested</a> by the community.",
+		"thanksOnly": "Thank you for helping EGC to donate to <a href='https://treesforcities.org/' target='_blank'>Trees for Cities.org</a> so we can help them to help our urban areas."
+	},
+	{
+		"charity": "Waterway Cleanup and Recycling Crowdfund",
+		"EGCaddress": "EfgaisXXY2Vd9P8mmTHV2dvkrJRBKpzsff",
+		"url": "https://evergreencoin.org/product/waterway-cleanup-recycling/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2018/06/creekcleanupgroup2-20-18-cropped.jpg",
+		"EGCurl": "https://evergreencoin.org/product/waterway-cleanup-recycling/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2017/12/partnership_egcieo.png",
+		"thanks": "A furnace will be purchased to turn glass and metal collected from cleanup efforts into useful products. See the <a href='https://evergreencoin.org/product/waterway-cleanup-recycling/'>crowdfund</a> for more details.",
+		"ask": "Please help us purchase a small furnace to turn glass and metal collected from cleanup efforts into useful products. See the <a href='https://evergreencoin.org/product/waterway-cleanup-recycling/'>crowdfund</a> for more details.",
+		"thanksOnly": "Thank you for helping! See the <a href='https://evergreencoin.org/product/waterway-cleanup-recycling/'>crowdfund</a> for our progress."
+	},
+	{
+		"charity": "Linesville Litter Critter Cleanup Direct Donation",
+		"EGCaddress": "EgBmW7jbgLdVp2yQsVXuafscnEZ9Quz3AB",
+		"url": "https://www.facebook.com/groups/357858081378146",
+		"img": "https://evergreencoin.org/wp-content/uploads/2018/08/AshleyCleanup13aug2018-e1547002238660.jpg",
+		"EGCurl": "https://www.facebook.com/groups/357858081378146",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/06/LinesvilleLitterCritter.png",
+		"thanks": "Thank you for supporting <a href='https://www.facebook.com/groups/357858081378146' target='_blank'>Linesville Litter Critter Cleanup</a>!",
+		"ask": "A community member in Pennsylvania, USA, is raising funds to help with her <a href='https://www.facebook.com/groups/357858081378146' target='_blank'>cleanup efforts</a>.",
+		"thanksOnly": "Thank you for supporting <a href='https://www.facebook.com/groups/357858081378146' target='_blank'>Linesville Litter Critter Cleanup</a>!"
+	},
+	{
+		"charity": "IGDE Global Direct Donation",
+		"EGCaddress": "EVcPw1ThbgJfc7M9A4DCJ5dAtagRP77WLe",
+		"url": "https://evergreencoin.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2018/09/EGCandIGDEgroup.jpg",
+		"EGCurl": "https://evergreencoin.org/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/09/EGCandIGDEgroup.jpg",
+		"thanks": "Thanks for supporting IGDE Global.",
+		"ask": "Please help support IGDE Global to plant more trees and reward treekeepers.",
+		"thanksOnly": "Thanks for supporting IGDE Global."
+	},
+	{
+		"charity": "Greenpeace Donation Fund",
+		"EGCaddress": "EaddaRHAjVdnxzY1DeJ13Uuifaino48cjo",
+		"url": "https://www.greenpeace.org/international/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2018/12/Greenpeace_logo200.png",
+		"EGCurl": "https://evergreencoin.org/product/greenpeace-donation-fund/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/11/Greenpeace_EGC_Fundraiser.png",
+		"thanks": "Thanks for supporting <a href='https://evergreencoin.org/product/greenpeace-donation-fund/' target='_blank'>our group donation to Greenpeace</a>.",
+		"ask": "We are gathering donations to make a group donation to Greenpeace in appreciation of all their countless efforts. <a href='https://evergreencoin.org/product/greenpeace-donation-fund/' target='_blank'>Read more</a>.",
+		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/greenpeace-donation-fund/' target='_blank'>our group donation to Greenpeace</a>."
+	},
+	{
+		"charity": "NRDC Donation Fund",
+		"EGCaddress": "EHcSwz3wusbC1jC9Rpdp5jybmNqWyLNckd",
+		"url": "https://www.nrdc.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2018/12/NRDC200.png",
+		"EGCurl": "https://evergreencoin.org/product/nrdc-fundraising/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/11/nrdcEGConeWorld.png",
+		"thanks": "Thanks for supporting <a href='https://evergreencoin.org/product/nrdc-fundraising/' target='_blank'>our group donation to NRDC</a>.",
+		"ask": "We are gathering donations to make a group donation to NRDC in appreciation of all their countless efforts. <a href='https://evergreencoin.org/product/nrdc-fundraising/' target='_blank'>Read more</a>.",
+		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/nrdc-fundraising/' target='_blank'>our group donation to NRDC</a>."
+	},
+	{
+		"charity": "Kakuma General Fund",
+		"EGCaddress": "EUqKdRXgYJRs6N5LFwjatp7oKg38s3jBQq",
+		"url": "https://evergreencoin.org/product/kakuma-general-fund/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2019/02/EGCKakumaInternetSq.png",
+		"EGCurl": "https://evergreencoin.org/product/kakuma-general-fund/",
+		"EGCimg": "https://pbs.twimg.com/media/Dc7ZM8KW0AEAznH.jpg",
+		"thanks": "By bridging the communication gap we hope to continue to help the learning center better instruct, facilitate better communication for future projects and help instill an EGC commerce within the camp. Please see the <a href='https://evergreencoin.org/product/kakuma-general-fund/'>crowdfund</a> for more details.",
+		"ask": "By bridging the communication gap we hope to continue to help the learning center better instruct, facilitate better communication for future projects and help instill an EGC commerce within the camp. Please see the <a href='https://evergreencoin.org/product/kakuma-general-fund/'>crowdfund</a> for more details.",
+		"thanksOnly": "By bridging the communication gap we hope to continue to help the learning center better instruct, facilitate better communication for future projects and help instill an EGC commerce within the camp. Please see the <a href='https://evergreencoin.org/product/kakuma-general-fund/'>crowdfund</a> for more details."
+	},
+	{
+		"charity": "Sierra Club Donation",
+		"EGCaddress": "Ef5DU5PaLb3UqJ2cquTpK2Lbd2qvJirz7X",
+		"url": "http://sierraclub.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2019/01/SierraClub.png",
+		"EGCurl": "https://evergreencoin.org/product/sierra-club-donation/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2019/01/EGCSierraClub.png",
+		"thanks": "By community demand, we are collecting a group donation for Sierra Club. Please see the <a href='https://evergreencoin.org/product/sierra-club-donation/'>crowdfund</a> for more details and donating options.",
+		"ask": "By community demand, we are collecting a group donation for Sierra Club. Please see the <a href='https://evergreencoin.org/product/sierra-club-donation/'>crowdfund</a> for more details and donating options.",
+		"thanksOnly": "Thank you for helping EGC to show Sierra Club our appreciation and support!"
+	},
+	{
+		"charity": "EcoWealth Direct Donation",
+		"EGCaddress": "EKERqgtcFFFCuz93aHbaQZ2PVVw9ceGmK6",
+		"url": "https://twitter.com/Eco_Wealth",
+		"img": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthSitSq.png",
+		"EGCurl": "https://evergreencoin.org/directory/ecowealth/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthShine.png",
+		"thanks": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation.",
+		"ask": "EcoWealth is a Golden Botanic and Hydrologic Archetype Making Botany and Hydrology a Global Force of Work with EverGreenCoin.org, Incorporating Mass Meditations and Reiki Healing. Support via direct donation.",
+		"thanksOnly": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation."
+	},
+	{
+		"charity": "EverGreenCoin 3rd Water Well",
+		"EGCaddress": "Ecrgmzx5BmeQAPYYJGW1iQoRpp7i2573yz",
+		"url": "https://evergreencoin.org/product/evergreencoin-build-3rd-well/",
+		"img": "https://i2.wp.com/evergreencoin.org/logos/1x/watermdpi.png",
+		"EGCurl": "https://evergreencoin.org/product/evergreencoin-build-3rd-well/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2017/04/EGCWwaterWell.jpg",
+		"thanks": "Thanks for helping to bring a water well to those in need.",
+		"ask": "This water well will provide clean drinking water for an entire community. The EverGreenCoin community was excited to fund its first Bangladesh well and we knew it is just the first of many. The 2nd in India proved this!  Please continue to help the EverGreenCoin community help other communities around the world.",
+		"thanksOnly": "Thanks for helping to bring a water well to those in need."
+	},
+	{
+		"charity": "Greening Uganda with EverGreenCoin 2020",
+		"EGCaddress": "Eg3KamGDN9kRG9H4QXz2gbHMFreDw6xX1m",
+		"url": "https://evergreencoin.org/product/greening-uganda-with-evergreencoin-2020/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2018/01/EGC_greening_uganda-e1516916081341.png",
+		"EGCurl": "https://evergreencoin.org/product/greening-uganda-with-evergreencoin-2020/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/01/EGC_greening_uganda-e1516916081341.png",		
+		"thanks": "Funding for a donation to <a href='http://www.Greening-Uganda.com/about/' target='_blank'>Project Greening Uganda</a>. Check funding <a href='https://evergreencoin.org/product/greening-uganda-with-evergreencoin-2020/'>progress</a> at EverGreenCoin.org also.",
+		"ask": "We were able to help <a href='http://www.Greening-Uganda.com/about/' target='_blank'>Project Greening Uganda</a> have a great success in 2018. <a href='https://evergreencoin.org/product/greening-uganda-with-evergreencoin-2020/'>Help</a> make 2019 even greater!",
+		"thanksOnly": "Thank you for donation to <a href='http://www.Greening-Uganda.com/about/' target='_blank'>Project Greening Uganda</a>! Check funding <a href='https://evergreencoin.org/product/greening-uganda-with-evergreencoin-2020/'>progress</a> at EverGreenCoin.org also."
+	},
+	{
+		"charity": "Fonzobot Discord Fair Games Direct",
+		"EGCaddress": "EQ9Bx6DYLJrzS2VtVUEzaAyEokSDbsVL14",
+		"url": "https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor",
+		"img": "https://evergreencoin.org/wp-content/uploads/2019/03/fonzobotLogo.png",
+		"EGCurl": "https://discord.me/EverGreenCoin",
+		"EGCimg": "https://evergreencoin.org/wp-content/plugins/wp-discord/public/img/icon.png",		
+		"thanks": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>",
+		"ask": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>",
+		"thanksOnly": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>"
+	},
+	{
+		"charity": "French Creek Valley Conservancy 2020",
+		"EGCaddress": "EMG7adf2Ri22UXBCWMhSkMKo8MADTpzpeg",
+		"url": "https://evergreencoin.org/product/french-creek-valley-conservancy-2020/",
+		"img": "https://i2.wp.com/evergreencoin.org/wp-content/uploads/2019/08/ErieGives2019.png?zoom=2.5&fit=800%2C800&ssl=1",
+		"EGCurl": "https://evergreencoin.org/product/french-creek-valley-conservancy-2020/",
+		"EGCimg": "https://i0.wp.com/evergreencoin.org/wp-content/uploads/2019/08/20190806_160711-e1565122256774.jpg?zoom=2.5&fit=2939%2C1939&ssl=1",		
+		"thanks": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy-2020/' target='_blank'>supporting</a>.",
+		"ask": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy-2020/' target='_blank'>supporting</a>.",
+		"thanksOnly": "Thanks for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy-2020/' target='_blank'>supporting</a>."
+	},
+	{
+		"charity": "The Water Project Donation",
+		"EGCaddress": "ESnyK8PZBso1WBUdGuKG2HPZ6sGo78my6W",
+		"url": "https://thewaterproject.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2019/08/thewaterproject.png",
+		"EGCurl": "https://evergreencoin.org/product/the-water-project-donation/",
+		"EGCimg": "https://evergreencoin.org/logos/1x/water-txtmdpi.png",
+		"thanks": "Thanks in advance for supporting <a href='https://thewaterproject.org/' target='_blank'>The Water Project.org</a>.",
+		"ask": "Please help <a href='https://evergreencoin.org/product/the-water-project-donation/' target='_blank'>raise funds for The Water Project.org</a>.",
+		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/the-water-project-donation/' target='_blank'>funds for The Water Project.org</a>."
+	},
+	{
+		"charity": "Not One More, NWPA, Inc. Donation",
+		"EGCaddress": "EUUb5REsaMTqjb8K9h9iKdW55Q1LkpPa7U",
+		"url": "https://nomnwpa.org/",
+		"img": "https://nomnwpa.org/wp-content/uploads/2018/08/nom_nwpa_circle.png",
+		"EGCurl": "https://evergreencoin.org/egcwellness/",
+		"EGCimg": "https://evergreencoin.org/logos/1x/wellness-txtmdpi.png",
+		"thanks": "<a href='https://nomnwpa.org/' target='_blank'>Not One More, Northwest PA Inc.</a> is a 501c3 non-profit that supports those with Substance Use Disorders and their loved ones in Northwest Pennsylvania.",
+		"ask": "<a href='https://nomnwpa.org/' target='_blank'>Not One More, Northwest PA Inc.</a> is a 501c3 non-profit that supports those with Substance Use Disorders and their loved ones in Northwest Pennsylvania.",
+		"thanksOnly": "<a href='https://nomnwpa.org/' target='_blank'>Not One More, Northwest PA Inc.</a> is a 501c3 non-profit that supports those with Substance Use Disorders and their loved ones in Northwest Pennsylvania."
+	},
+	{
+		"charity": "Solar for Olakunle",
+		"EGCaddress": "EYemN9EwkDjMuU2E7aJsjy4XC9FUdrcjVg",
+		"url": "https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966",
+		"img": "https://i0.wp.com/evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/06/2020/received_1242931192559819.jpeg",
+		"EGCurl": "https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966",
+		"EGCimg": "https://i0.wp.com/evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/06/2020/received_1242931192559819.jpeg?w=700&ssl=1",
+		"thanks": "Thanks in advance for helping <a href='https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966' target='_blank'>Olakunle</a> obtain better tools for his efforts in Kakuma.",
+		"ask": "An active community member in Nigeria, <a href='https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966' target='_blank'>Olakunle</a>, is requesting donations to purchase solar equipment.",
+		"thanksOnly": "Thanks in advance for helping <a href='https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966' target='_blank'>Olakunle</a> obtain solar equipment."
+	}
+]
