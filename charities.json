@@ -1,5 +1,5 @@
 [
-{
+	{
 		"charity": "PoE Monthly Reward Pool",
 		"EGCaddress": "EWtVmSQbrR7ZTxBgykbPKpgJtL2JZuDt7T",
 		"url": "https://evergreencoin.org/proof-of-environment/",
@@ -165,7 +165,7 @@
 		"thanksOnly": "Thanks for helping to bring a water well to those in need."
 	},
 	{
-		"charity": "Greening Uganda with EverGreenCoin 2020",
+		"charity": "Greening Uganda with EverGreenCoin 2021",
 		"EGCaddress": "Eg3KamGDN9kRG9H4QXz2gbHMFreDw6xX1m",
 		"url": "https://evergreencoin.org/product/greening-uganda-with-evergreencoin-2020/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2018/01/EGC_greening_uganda-e1516916081341.png",
@@ -187,7 +187,7 @@
 		"thanksOnly": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>"
 	},
 	{
-		"charity": "French Creek Valley Conservancy 2020",
+		"charity": "French Creek Valley Conservancy 2021",
 		"EGCaddress": "EMG7adf2Ri22UXBCWMhSkMKo8MADTpzpeg",
 		"url": "https://evergreencoin.org/product/french-creek-valley-conservancy-2020/",
 		"img": "https://i2.wp.com/evergreencoin.org/wp-content/uploads/2019/08/ErieGives2019.png?zoom=2.5&fit=800%2C800&ssl=1",
@@ -229,5 +229,38 @@
 		"thanks": "Thanks in advance for helping <a href='https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966' target='_blank'>Olakunle</a> obtain better tools for his efforts in Kakuma.",
 		"ask": "An active community member in Nigeria, <a href='https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966' target='_blank'>Olakunle</a>, is requesting donations to purchase solar equipment.",
 		"thanksOnly": "Thanks in advance for helping <a href='https://evergreencoin.org/groups/proof-of-environment/forum/topic/june-2020-poe-accepted-work-shares/#post-18966' target='_blank'>Olakunle</a> obtain solar equipment."
+	},
+	{
+		"charity": "iOS Development Fund",
+		"EGCaddress": "EX5pZt5nT1mNrJq3t3g2kZfEXzhY1RUYC5",
+		"url": "https://evergreencoin.org/product/ios-development-fund/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2020/11/greenIos.png",
+		"EGCurl": "https://evergreencoin.org/product/ios-development-fund/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2020/11/EGCiOSdonate.png",
+		"thanks": "Thanks in advance for helping <a href='https://evergreencoin.org/product/ios-development-fund/' target='_blank'>iOS Development Fund</a>!",
+		"ask": "In an effort to raise funding for <a href='https://evergreencoin.org/product/ios-development-fund/' target='_blank'>iOS Development</a>, we are requesting donations.",
+		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/ios-development-fund/' target='_blank'>our iOS Development Fund</a> and helping EGC grow on the iOS platform."
+	},
+	{
+		"charity": "Reverse IndusTree Direct Donation",
+		"EGCaddress": "EXt8hjoQqyNY8846zk7oNowV4RJXvZMcDb",
+		"url": "https://www.reverse-industree.com.au/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2020/12/ReverseIndusTree.jpg",
+		"EGCurl": "https://www.reverse-industree.com.au/post/proof-of-environment-trash-walk",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/11/2020/JoelPoETrashwalk.png",
+		"thanks": "Thanks in advance for donating to <a href='https://www.reverse-industree.com.au/' target='_blank'>Reverse IndusTree</a>!",
+		"ask": "Thanks in advance for donating to <a href='https://www.reverse-industree.com.au/' target='_blank'>Reverse IndusTree</a>!",
+		"thanksOnly": "Thanks for donating to <a href='https://www.reverse-industree.com.au/' target='_blank'>Reverse IndusTree</a>!"
+	},
+	{
+		"charity": "Help The Homeless Worldwide",
+		"EGCaddress": "EcEe8QumrKjmYf6nu8a7o1mzZTwhRMJ9uD",
+		"url": "https://hth.world/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2021/02/hthlogo.png",
+		"EGCurl": "https://evergreencoin.org/current-authorized-efforts/#Help-The-Homeless-Worldwide",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2021/02/hthlogo.png",
+		"thanks": "Thanks in advance for donating to <a href='https://hth.world/' target='_blank'>Help The Homeless Worldwide</a>!",
+		"ask": "Please consider donating to <a href='https://hth.world/' target='_blank'>Help The Homeless Worldwide</a>!",
+		"thanksOnly": "Thanks for donating to <a href='https://hth.world/' target='_blank'>Help The Homeless Worldwide</a>!"
 	}
 ]
