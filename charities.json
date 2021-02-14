@@ -88,17 +88,6 @@
 		"thanksOnly": "Thank you for supporting <a href='https://www.facebook.com/groups/357858081378146' target='_blank'>Linesville Litter Critter Cleanup</a>!"
 	},
 	{
-		"charity": "IGDE Global Direct Donation",
-		"EGCaddress": "EVcPw1ThbgJfc7M9A4DCJ5dAtagRP77WLe",
-		"url": "https://evergreencoin.org/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2018/09/EGCandIGDEgroup.jpg",
-		"EGCurl": "https://evergreencoin.org/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/09/EGCandIGDEgroup.jpg",
-		"thanks": "Thanks for supporting IGDE Global.",
-		"ask": "Please help support IGDE Global to plant more trees and reward treekeepers.",
-		"thanksOnly": "Thanks for supporting IGDE Global."
-	},
-	{
 		"charity": "Greenpeace Donation Fund",
 		"EGCaddress": "EaddaRHAjVdnxzY1DeJ13Uuifaino48cjo",
 		"url": "https://www.greenpeace.org/international/",
