@@ -176,15 +176,15 @@
 		"thanksOnly": "<a href='https://nomnwpa.org/' target='_blank'>Not One More, Northwest PA Inc.</a> is a 501c3 non-profit that supports those with Substance Use Disorders and their loved ones in Northwest Pennsylvania."
 	},
 	{
-		"charity": "iOS Development Fund",
+		"charity": "Development Fund",
 		"EGCaddress": "EX5pZt5nT1mNrJq3t3g2kZfEXzhY1RUYC5",
-		"url": "https://evergreencoin.org/product/ios-development-fund/",
+		"url": "https://evergreencoin.org/product/development-fund/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2020/11/greenIos.png",
-		"EGCurl": "https://evergreencoin.org/product/ios-development-fund/",
+		"EGCurl": "https://evergreencoin.org/product/development-fund/",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2020/11/EGCiOSdonate.png",
-		"thanks": "Thanks in advance for helping <a href='https://evergreencoin.org/product/ios-development-fund/' target='_blank'>iOS Development Fund</a>!",
-		"ask": "In an effort to raise funding for <a href='https://evergreencoin.org/product/ios-development-fund/' target='_blank'>iOS Development</a>, we are requesting donations.",
-		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/ios-development-fund/' target='_blank'>our iOS Development Fund</a> and helping EGC grow on the iOS platform."
+		"thanks": "Thanks in advance for helping our <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development fund</a>!",
+		"ask": "In an effort to raise funding for outsourced <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development</a>, we are requesting donations.",
+		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>our development fund</a> and helping EGC grow!"
 	},
 	{
 		"charity": "Reverse IndusTree Direct Donation",
