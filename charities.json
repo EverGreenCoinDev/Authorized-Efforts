@@ -143,15 +143,15 @@
 		"thanksOnly": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>"
 	},
 	{
-		"charity": "French Creek Valley Conservancy 2021",
+		"charity": "French Creek Valley Conservancy",
 		"EGCaddress": "EMG7adf2Ri22UXBCWMhSkMKo8MADTpzpeg",
-		"url": "https://evergreencoin.org/product/french-creek-valley-conservancy-2020/",
+		"url": "https://evergreencoin.org/product/french-creek-valley-conservancy/",
 		"img": "https://i2.wp.com/evergreencoin.org/wp-content/uploads/2019/08/ErieGives2019.png?zoom=2.5&fit=800%2C800&ssl=1",
-		"EGCurl": "https://evergreencoin.org/product/french-creek-valley-conservancy-2020/",
+		"EGCurl": "https://evergreencoin.org/product/french-creek-valley-conservancy/",
 		"EGCimg": "https://i0.wp.com/evergreencoin.org/wp-content/uploads/2019/08/20190806_160711-e1565122256774.jpg?zoom=2.5&fit=2939%2C1939&ssl=1",		
-		"thanks": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy-2020/' target='_blank'>supporting</a>.",
-		"ask": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy-2020/' target='_blank'>supporting</a>.",
-		"thanksOnly": "Thanks for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy-2020/' target='_blank'>supporting</a>."
+		"thanks": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy/' target='_blank'>supporting</a>.",
+		"ask": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy/' target='_blank'>supporting</a>.",
+		"thanksOnly": "Thanks for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy/' target='_blank'>supporting</a>."
 	},
 	{
 		"charity": "The Water Project Donation",
