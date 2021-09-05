@@ -229,5 +229,16 @@
 		"thanks": "Thanks for supporting <a href='https://www.4ocean.com/' target='_blank'>4ocean</a>!",
 		"ask": "Please consider supporting <a href='https://www.4ocean.com/' target='_blank'>4ocean</a>!",
 		"thanksOnly": "Thanks for supporting <a href='https://www.4ocean.com/' target='_blank'>4ocean</a>!"
+	},
+	{
+		"charity": "Tree Planting Bounties",
+		"EGCaddress": "EXRvQDDH5sb4b458sFA9QAv6dVVWLtWehE",
+		"url": "https://evergreencoin.org/product/tree-planting-bounties/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2021/09/MartinTreePlant.png",
+		"EGCurl": "https://evergreencoin.org/product/tree-planting-bounties/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2021/09/MartinTreePlant.png",
+		"thanks": "Thanks for supporting our tree planting efforts!",
+		"ask": "Please consider supporting <a href='https://evergreencoin.org/product/tree-planting-bounties/' target='_blank'>our tree planting efforts</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/tree-planting-bounties/' target='_blank'>our tree planting efforts</a>!"
 	}
 ]
