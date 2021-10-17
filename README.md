@@ -1,2 +1,2 @@
 # Authorized-Efforts
-EGC Authorized Efforts JSON data.
+EverGreenCoin (EGC) Authorized Efforts' JSON data.
