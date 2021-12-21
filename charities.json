@@ -240,5 +240,16 @@
 		"thanks": "Thanks for supporting our tree planting efforts!",
 		"ask": "Please consider supporting <a href='https://evergreencoin.org/product/tree-planting-bounties/' target='_blank'>our tree planting efforts</a>!",
 		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/tree-planting-bounties/' target='_blank'>our tree planting efforts</a>!"
+	},
+	{
+		"charity": "War on Plastics Direct Donation",
+		"EGCaddress": "EL98MH71QMfmyzW8khMEcmjjfSFynpgCpD",
+		"url": "https://waronplastics.co.uk/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2021/12/WarOnPlastics.jpg",
+		"EGCurl": "https://waronplastics.co.uk/",
+		"EGCimg": "https://i1.wp.com/evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/12/2021/20211031_165205.jpg?w=700&ssl=1",
+		"thanks": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
+		"ask": "Please consider supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!"
 	}
 ]
