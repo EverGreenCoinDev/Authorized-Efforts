@@ -143,7 +143,7 @@
 		"thanksOnly": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>"
 	},
 	{
-		"charity": "French Creek Valley Conservancy",
+		"charity": "French Creek Valley Conservancy Donation Fund",
 		"EGCaddress": "EMG7adf2Ri22UXBCWMhSkMKo8MADTpzpeg",
 		"url": "https://evergreencoin.org/product/french-creek-valley-conservancy/",
 		"img": "https://i2.wp.com/evergreencoin.org/wp-content/uploads/2019/08/ErieGives2019.png?zoom=2.5&fit=800%2C800&ssl=1",
@@ -154,7 +154,7 @@
 		"thanksOnly": "Thanks for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy/' target='_blank'>supporting</a>."
 	},
 	{
-		"charity": "The Water Project Donation",
+		"charity": "The Water Project Donation Fund",
 		"EGCaddress": "ESnyK8PZBso1WBUdGuKG2HPZ6sGo78my6W",
 		"url": "https://thewaterproject.org/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2019/08/thewaterproject.png",
@@ -165,7 +165,7 @@
 		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/the-water-project-donation/' target='_blank'>funds for The Water Project.org</a>."
 	},
 	{
-		"charity": "Not One More, NWPA, Inc. Donation",
+		"charity": "Not One More, NWPA, Inc. Donation Fund",
 		"EGCaddress": "EUUb5REsaMTqjb8K9h9iKdW55Q1LkpPa7U",
 		"url": "https://nomnwpa.org/",
 		"img": "https://nomnwpa.org/wp-content/uploads/2018/08/nom_nwpa_circle.png",
@@ -198,7 +198,7 @@
 		"thanksOnly": "Thanks for donating to <a href='https://www.reverse-industree.com.au/' target='_blank'>Reverse IndusTree</a>!"
 	},
 	{
-		"charity": "Help The Homeless Worldwide",
+		"charity": "Help The Homeless Worldwide Donation Fund",
 		"EGCaddress": "EcEe8QumrKjmYf6nu8a7o1mzZTwhRMJ9uD",
 		"url": "https://hth.world/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2021/02/hthlogo.png",
@@ -209,7 +209,7 @@
 		"thanksOnly": "Thanks for donating to <a href='https://hth.world/' target='_blank'>Help The Homeless Worldwide</a>!"
 	},
 	{
-		"charity": "Clean Planet.io",
+		"charity": "Clean Planet.io Donation Fund",
 		"EGCaddress": "ELooV1LLzZXhe5CwcK76kH5eubiWaiPctx",
 		"url": "https://cleanplanet.io/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2021/05/logo_clean_planet_Plan-de-travail-1-copie-3-3-1.png",
@@ -220,7 +220,7 @@
 		"thanksOnly": "Thanks for supporting <a href='https://cleanplanet.io/' target='_blank'>Clean Planet.io</a>!"
 	},
 	{
-		"charity": "4ocean",
+		"charity": "4ocean Donation Fund",
 		"EGCaddress": "EJHxLiYFMiKEagF3sk8wTWJ1TRYkWm6CNy",
 		"url": "https://www.4ocean.com/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2021/05/logo-4ocean-500x500-1.png",
