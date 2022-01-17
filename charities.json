@@ -187,15 +187,15 @@
 		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>our development fund</a> and helping EGC grow!"
 	},
 	{
-		"charity": "Reverse IndusTree Direct Donation",
-		"EGCaddress": "EXt8hjoQqyNY8846zk7oNowV4RJXvZMcDb",
-		"url": "https://www.reverse-industree.com.au/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2020/12/ReverseIndusTree.jpg",
-		"EGCurl": "https://www.reverse-industree.com.au/post/proof-of-environment-trash-walk",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/11/2020/JoelPoETrashwalk.png",
-		"thanks": "Thanks in advance for donating to <a href='https://www.reverse-industree.com.au/' target='_blank'>Reverse IndusTree</a>!",
-		"ask": "Please consider donating to <a href='https://www.reverse-industree.com.au/' target='_blank'>Reverse IndusTree</a>!",
-		"thanksOnly": "Thanks for donating to <a href='https://www.reverse-industree.com.au/' target='_blank'>Reverse IndusTree</a>!"
+		"charity": "NFT's Now Funding Trees Direct Donation",
+		"EGCaddress": "ETnubCkzqGcfvBMoJ7c7iNpScEfkRoG1xb",
+		"url": "https://www.nowfundingtrees.com/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/01/NFTsNowFundingTrees.jpg",
+		"EGCurl": "https://www.nowfundingtrees.com/evergreencoin",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/01/EGCencrypt0NFTs.jpg",
+		"thanks": "Thanks in advance for donating to <a href='https://www.nowfundingtrees.com/' target='_blank'>NFT's Now Funding Trees</a>!",
+		"ask": "Please consider donating to <a href='https://www.nowfundingtrees.com/' target='_blank'>NFT's Now Funding Trees</a>!",
+		"thanksOnly": "Thanks for donating to <a href='https://www.nowfundingtrees.com/' target='_blank'>NFT's Now Funding Trees</a>!"
 	},
 	{
 		"charity": "Help The Homeless Worldwide Donation Fund",
