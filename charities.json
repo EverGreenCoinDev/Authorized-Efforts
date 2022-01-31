@@ -11,17 +11,6 @@
 		"thanksOnly": "Thank you for donating to this month's <a href='https://evergreencoin.org/poe/'>Proof of Environment</a> reward pool."
 	},
 	{
-		"charity": "I.E.O. Direct Donation",
-		"EGCaddress": "EKsvjis689QM2QGxNvkrmFEqLiFmmKAXGk",
-		"url": "https://evergreencoin.org/directory/increased-economic-opportunities-inc/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2017/09/logo-300x179-1-e1514366065244.png",
-		"EGCurl": "https://evergreencoin.org/directory/increased-economic-opportunities-inc/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2017/12/partnership_egcieo.png",
-		"thanks": "Help <a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a> through direct donation.",
-		"ask": "Direct donation to <a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a>",
-		"thanksOnly": "<a href='https://evergreencoin.org/directory/increased-economic-opportunities-inc/'>I.E.O.</a> thanks you!"
-	},
-	{
 		"charity": "EGC Renewables Donation",
 		"EGCaddress": "EamRBfnttBGkY1WKY3k5tUi4VVinr6Dpmo",
 		"url": "https://evergreencoin.org/egcrenewables/",
@@ -64,17 +53,6 @@
 		"thanks": "A furnace will be purchased to turn glass and metal collected from cleanup efforts into useful products. See the <a href='https://evergreencoin.org/product/waterway-cleanup-recycling/'>crowdfund</a> for more details.",
 		"ask": "Please help us purchase a small furnace to turn glass and metal collected from cleanup efforts into useful products. See the <a href='https://evergreencoin.org/product/waterway-cleanup-recycling/'>crowdfund</a> for more details.",
 		"thanksOnly": "Thank you for helping! See the <a href='https://evergreencoin.org/product/waterway-cleanup-recycling/'>crowdfund</a> for our progress."
-	},
-	{
-		"charity": "Linesville Litter Critter's Cleanup Direct Donation",
-		"EGCaddress": "EgBmW7jbgLdVp2yQsVXuafscnEZ9Quz3AB",
-		"url": "https://www.facebook.com/groups/357858081378146",
-		"img": "https://evergreencoin.org/wp-content/uploads/2018/08/AshleyCleanup13aug2018-e1547002238660.jpg",
-		"EGCurl": "https://www.facebook.com/groups/357858081378146",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/06/LinesvilleLitterCritter.png",
-		"thanks": "Thank you for supporting <a href='https://www.facebook.com/groups/357858081378146' target='_blank'>Linesville Litter Critter Cleanup</a>!",
-		"ask": "A community member in Pennsylvania, USA, is raising funds to help with her <a href='https://www.facebook.com/groups/357858081378146' target='_blank'>cleanup efforts</a>.",
-		"thanksOnly": "Thank you for supporting <a href='https://www.facebook.com/groups/357858081378146' target='_blank'>Linesville Litter Critter Cleanup</a>!"
 	},
 	{
 		"charity": "Greenpeace Donation Fund",
