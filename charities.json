@@ -229,5 +229,27 @@
 		"thanks": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
 		"ask": "Please consider supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
 		"thanksOnly": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!"
+	},
+	{
+		"charity": "Moses West Foundation Donation Fund",
+		"EGCaddress": "ELe24hTpLKrRiNAwX39XJWvbqSBdJ5MYVR",
+		"url": "https://moseswestfoundation.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/02/MWF-Draft.png",
+		"EGCurl": "https://evergreencoin.org/egcwater/",
+		"EGCimg": "https://i0.wp.com/evergreencoin.org/logos/1x/water-txtmdpi.png?w=700&ssl=1",
+		"thanks": "Thanks for supporting <a href='https://moseswestfoundation.org/' target='_blank'>Moses West Foundation</a>!",
+		"ask": "Please consider supporting <a href='https://moseswestfoundation.org/' target='_blank'>Moses West Foundation</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://moseswestfoundation.org/' target='_blank'>Moses West Foundation</a>!"
+	},
+	{
+		"charity": "Eden Reforestation Projects Donation Fund",
+		"EGCaddress": "EUrZMLEsYfDdA2p9pxc9ZuwyQhEvHAaen9",
+		"url": "https://www.edenprojects.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/03/edenReforestLogo.jpg",
+		"EGCurl": "https://www.edenprojects.org/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/03/edenReforestLogo.jpg",
+		"thanks": "Thanks for supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!",
+		"ask": "Please consider supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!"
 	}
 ]
