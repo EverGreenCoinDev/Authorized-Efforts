@@ -251,5 +251,16 @@
 		"thanks": "Thanks for supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!",
 		"ask": "Please consider supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!",
 		"thanksOnly": "Thanks for supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!"
+	},
+	{
+		"charity": "Beyond Coral Foundation Donation Fund",
+		"EGCaddress": "EPCdjUQqNFUPzvYUqPwfvdY2dsZ84bm294",
+		"url": "https://www.beyondcoral.com/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/03/beyondCoralLogo.jpg",
+		"EGCurl": "https://www.beyondcoral.com/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/03/beyondCoralLogo.jpg",
+		"thanks": "Thanks for supporting <a href='https://www.beyondcoral.com/' target='_blank'>Beyond Coral Foundation</a>!",
+		"ask": "Please consider supporting <a href='https://www.beyondcoral.com/' target='_blank'>Beyond Coral Foundation</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://www.beyondcoral.com/' target='_blank'>Beyond Coral Foundation</a>!"
 	}
 ]
