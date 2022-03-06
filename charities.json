@@ -224,7 +224,7 @@
 		"EGCaddress": "EL98MH71QMfmyzW8khMEcmjjfSFynpgCpD",
 		"url": "https://waronplastics.co.uk/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2021/12/WarOnPlastics.jpg",
-		"EGCurl": "https://waronplastics.co.uk/",
+		"EGCurl": "https://twitter.com/PlasticsWar",
 		"EGCimg": "https://i1.wp.com/evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/12/2021/20211031_165205.jpg?w=700&ssl=1",
 		"thanks": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
 		"ask": "Please consider supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
@@ -246,7 +246,7 @@
 		"EGCaddress": "EUrZMLEsYfDdA2p9pxc9ZuwyQhEvHAaen9",
 		"url": "https://www.edenprojects.org/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2022/03/edenReforestLogo.jpg",
-		"EGCurl": "https://www.edenprojects.org/",
+		"EGCurl": "https://twitter.com/eden_reforest",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/03/edenReforestLogo.jpg",
 		"thanks": "Thanks for supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!",
 		"ask": "Please consider supporting <a href='https://www.edenprojects.org/' target='_blank'>Eden Reforestation Projects</a>!",
@@ -257,10 +257,43 @@
 		"EGCaddress": "EPCdjUQqNFUPzvYUqPwfvdY2dsZ84bm294",
 		"url": "https://www.beyondcoral.com/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2022/03/beyondCoralLogo.jpg",
-		"EGCurl": "https://www.beyondcoral.com/",
+		"EGCurl": "https://www.facebook.com/BeyondCoralFoundation/",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/03/beyondCoralLogo.jpg",
 		"thanks": "Thanks for supporting <a href='https://www.beyondcoral.com/' target='_blank'>Beyond Coral Foundation</a>!",
 		"ask": "Please consider supporting <a href='https://www.beyondcoral.com/' target='_blank'>Beyond Coral Foundation</a>!",
 		"thanksOnly": "Thanks for supporting <a href='https://www.beyondcoral.com/' target='_blank'>Beyond Coral Foundation</a>!"
+	},
+	{
+		"charity": "Greens of Africa Foundation Donation Fund",
+		"EGCaddress": "EPkJzTAbzf1YUQBnhLUweuAvK3u2kfg1V5",
+		"url": "https://www.greensofafrica.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/03/GreensOfAfricaLogo-e1646518521127.jpg",
+		"EGCurl": "https://twitter.com/AfricaGreens",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/03/GreensOfAfricaLogo-e1646518521127.jpg",
+		"thanks": "Thanks for supporting <a href='https://www.greensofafrica.org/' target='_blank'>Greens of Africa Foundation</a>!",
+		"ask": "Please consider supporting <a href='https://www.greensofafrica.org/' target='_blank'>Greens of Africa Foundation</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://www.greensofafrica.org/' target='_blank'>Greens of Africa Foundation</a>!"
+	},
+	{
+		"charity": "SEE Turtles Donation Fund",
+		"EGCaddress": "EVZjLcA9XC18Qkq18XJQByfj9fJAdPDDJY",
+		"url": "https://www.seeturtles.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/03/SEETurtlesLogo.jpg",
+		"EGCurl": "https://twitter.com/SEEturtles",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/03/SEETurtlesLogo.jpg",
+		"thanks": "Thanks for supporting <a href='https://www.seeturtles.org/' target='_blank'>SEE Turtles</a>!",
+		"ask": "Please consider supporting <a href='https://www.seeturtles.org/' target='_blank'>SEE Turtles</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://www.seeturtles.org/' target='_blank'>SEE Turtles</a>!"
+	},
+	{
+		"charity": "Whale & Dolphin Conservation Donation Fund",
+		"EGCaddress": "EMQgrQS6Ad1uRRk3wY7XpMdNx4GtdR24q2",
+		"url": "https://us.whales.org/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/03/WalesOrgLogo.jpg",
+		"EGCurl": "https://twitter.com/whales_org",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/03/WalesOrgLogo.jpg",
+		"thanks": "Thanks for supporting <a href='https://us.whales.org/' target='_blank'>Whale & Dolphin Conservation</a>!",
+		"ask": "Please consider supporting <a href='https://us.whales.org/' target='_blank'>Whale & Dolphin Conservation</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://us.whales.org/' target='_blank'>Whale & Dolphin Conservation</a>!"
 	}
 ]
