@@ -143,15 +143,15 @@
 		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/the-water-project-donation/' target='_blank'>funds for The Water Project.org</a>."
 	},
 	{
-		"charity": "Not One More, NWPA, Inc. Donation Fund",
+		"charity": "Not One More, Inc. Donation Fund",
 		"EGCaddress": "EUUb5REsaMTqjb8K9h9iKdW55Q1LkpPa7U",
-		"url": "https://nomnwpa.org/",
+		"url": "https://www.notonemore.net/",
 		"img": "https://nomnwpa.org/wp-content/uploads/2018/08/nom_nwpa_circle.png",
 		"EGCurl": "https://evergreencoin.org/egcwellness/",
 		"EGCimg": "https://evergreencoin.org/logos/1x/wellness-txtmdpi.png",
-		"thanks": "<a href='https://nomnwpa.org/' target='_blank'>Not One More, Northwest PA Inc.</a> is a 501c3 non-profit that supports those with Substance Use Disorders and their loved ones in Northwest Pennsylvania.",
-		"ask": "<a href='https://nomnwpa.org/' target='_blank'>Not One More, Northwest PA Inc.</a> is a 501c3 non-profit that supports those with Substance Use Disorders and their loved ones in Northwest Pennsylvania.",
-		"thanksOnly": "<a href='https://nomnwpa.org/' target='_blank'>Not One More, Northwest PA Inc.</a> is a 501c3 non-profit that supports those with Substance Use Disorders and their loved ones in Northwest Pennsylvania."
+		"thanks": "<a href='https://www.notonemore.net/' target='_blank'>Not One More, Inc.</a> is a 501c3 non-profit that supports those with substance use disorders and their loved ones within their networks across the USA.",
+		"ask": "<a href='https://www.notonemore.net/' target='_blank'>Not One More, Inc.</a> is a 501c3 non-profit that supports those with substance use disorders and their loved ones their networks across the USA.",
+		"thanksOnly": "<a href='https://www.notonemore.net/' target='_blank'>Not One More, Inc.</a> is a 501c3 non-profit that supports those with substance use disorders and their loved ones their networks across the USA."
 	},
 	{
 		"charity": "Development Fund",
