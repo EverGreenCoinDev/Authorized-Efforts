@@ -110,17 +110,6 @@
 		"thanksOnly": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation."
 	},
 	{
-		"charity": "Fonzobot Discord Fair Games Direct",
-		"EGCaddress": "EQ9Bx6DYLJrzS2VtVUEzaAyEokSDbsVL14",
-		"url": "https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor",
-		"img": "https://evergreencoin.org/wp-content/uploads/2019/03/fonzobotLogo.png",
-		"EGCurl": "https://discord.me/EverGreenCoin",
-		"EGCimg": "https://evergreencoin.org/wp-content/plugins/wp-discord/public/img/icon.png",		
-		"thanks": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>",
-		"ask": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>",
-		"thanksOnly": "100% of donations to this address go towards fonzobot's Fair Games of Chance house account for rewards in our <a href='https://discord.me/EverGreenCoin' target='_blank'>Discord</a>. These rewards are distributed to players and charities if they use the Gamble4Charity options. See: <a href='https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor' target='_blank'>https://bitbucket.org/arfonzo/fonzobot-discord/wiki/Gamblor</a>"
-	},
-	{
 		"charity": "French Creek Valley Conservancy Donation Fund",
 		"EGCaddress": "EMG7adf2Ri22UXBCWMhSkMKo8MADTpzpeg",
 		"url": "https://evergreencoin.org/product/french-creek-valley-conservancy/",
