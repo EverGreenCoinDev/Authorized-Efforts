@@ -154,15 +154,15 @@
 		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>our development fund</a> and helping EGC grow!"
 	},
 	{
-		"charity": "NFT's Now Funding Trees Direct Donation",
+		"charity": "Wood Wide Web Direct Donation",
 		"EGCaddress": "ETnubCkzqGcfvBMoJ7c7iNpScEfkRoG1xb",
-		"url": "https://www.nowfundingtrees.com/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2022/01/NFTsNowFundingTrees.jpg",
-		"EGCurl": "https://www.nowfundingtrees.com/evergreencoin",
+		"url": "https://twitter.com/TheWoodWideWeb",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/10/WoodWideWeb.jpg",
+		"EGCurl": "https://twitter.com/TheWoodWideWeb",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/01/EGCencrypt0NFTs.jpg",
-		"thanks": "Thanks in advance for donating to <a href='https://www.nowfundingtrees.com/' target='_blank'>NFT's Now Funding Trees</a>!",
-		"ask": "Please consider donating to <a href='https://www.nowfundingtrees.com/' target='_blank'>NFT's Now Funding Trees</a>!",
-		"thanksOnly": "Thanks for donating to <a href='https://www.nowfundingtrees.com/' target='_blank'>NFT's Now Funding Trees</a>!"
+		"thanks": "Thanks in advance for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
+		"ask": "Please consider donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
+		"thanksOnly": "Thanks for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!"
 	},
 	{
 		"charity": "Help The Homeless Worldwide Donation Fund",
