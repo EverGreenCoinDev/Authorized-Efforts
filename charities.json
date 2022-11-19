@@ -92,10 +92,10 @@
 		"EGCaddress": "Ef5DU5PaLb3UqJ2cquTpK2Lbd2qvJirz7X",
 		"url": "http://sierraclub.org/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2019/01/SierraClub.png",
-		"EGCurl": "https://evergreencoin.org/product/sierra-club-donation/",
+		"EGCurl": "http://sierraclub.org/",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2019/01/EGCSierraClub.png",
-		"thanks": "By community demand, we are collecting a group donation for Sierra Club. Please see the <a href='https://evergreencoin.org/product/sierra-club-donation/'>crowdfund</a> for more details and donating options.",
-		"ask": "By community demand, we are collecting a group donation for Sierra Club. Please see the <a href='https://evergreencoin.org/product/sierra-club-donation/'>crowdfund</a> for more details and donating options.",
+		"thanks": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/'>Sierra Club</a>.",
+		"ask": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/'>Sierra Club</a>.",
 		"thanksOnly": "Thank you for helping EGC to show Sierra Club our appreciation and support!"
 	},
 	{
@@ -112,24 +112,24 @@
 	{
 		"charity": "French Creek Valley Conservancy Donation Fund",
 		"EGCaddress": "EMG7adf2Ri22UXBCWMhSkMKo8MADTpzpeg",
-		"url": "https://evergreencoin.org/product/french-creek-valley-conservancy/",
+		"url": "https://www.frenchcreekconservancy.org/",
 		"img": "https://i2.wp.com/evergreencoin.org/wp-content/uploads/2019/08/ErieGives2019.png?zoom=2.5&fit=800%2C800&ssl=1",
-		"EGCurl": "https://evergreencoin.org/product/french-creek-valley-conservancy/",
+		"EGCurl": "https://www.frenchcreekconservancy.org/",
 		"EGCimg": "https://i0.wp.com/evergreencoin.org/wp-content/uploads/2019/08/20190806_160711-e1565122256774.jpg?zoom=2.5&fit=2939%2C1939&ssl=1",		
-		"thanks": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy/' target='_blank'>supporting</a>.",
-		"ask": "Thanks in advance for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy/' target='_blank'>supporting</a>.",
-		"thanksOnly": "Thanks for <a href='https://evergreencoin.org/product/french-creek-valley-conservancy/' target='_blank'>supporting</a>."
+		"thanks": "Thanks in advance for <a href='https://www.frenchcreekconservancy.org/' target='_blank'>supporting FCVC</a>.",
+		"ask": "Thanks in advance for <a href='https://www.frenchcreekconservancy.org/' target='_blank'>supporting FCVC</a>.",
+		"thanksOnly": "Thanks for <a href='https://www.frenchcreekconservancy.org/' target='_blank'>supporting FCVC</a>."
 	},
 	{
 		"charity": "The Water Project Donation Fund",
 		"EGCaddress": "ESnyK8PZBso1WBUdGuKG2HPZ6sGo78my6W",
 		"url": "https://thewaterproject.org/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2019/08/thewaterproject.png",
-		"EGCurl": "https://evergreencoin.org/product/the-water-project-donation/",
+		"EGCurl": "https://thewaterproject.org/",
 		"EGCimg": "https://evergreencoin.org/logos/1x/water-txtmdpi.png",
 		"thanks": "Thanks in advance for supporting <a href='https://thewaterproject.org/' target='_blank'>The Water Project.org</a>.",
-		"ask": "Please help <a href='https://evergreencoin.org/product/the-water-project-donation/' target='_blank'>raise funds for The Water Project.org</a>.",
-		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/the-water-project-donation/' target='_blank'>funds for The Water Project.org</a>."
+		"ask": "Please help raise funds for <a href='https://thewaterproject.org/' target='_blank'>The Water Project.org</a>.",
+		"thanksOnly": "Thanks for supporting funds for <a href='https://thewaterproject.org/' target='_blank'>The Water Project.org</a>."
 	},
 	{
 		"charity": "Not One More, Inc. Donation Fund",
