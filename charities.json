@@ -116,9 +116,9 @@
 		"img": "https://i2.wp.com/evergreencoin.org/wp-content/uploads/2019/08/ErieGives2019.png?zoom=2.5&fit=800%2C800&ssl=1",
 		"EGCurl": "https://www.frenchcreekconservancy.org/",
 		"EGCimg": "https://i0.wp.com/evergreencoin.org/wp-content/uploads/2019/08/20190806_160711-e1565122256774.jpg?zoom=2.5&fit=2939%2C1939&ssl=1",		
-		"thanks": "Thanks in advance for <a href='https://www.frenchcreekconservancy.org/' target='_blank'>supporting FCVC</a>.",
-		"ask": "Thanks in advance for <a href='https://www.frenchcreekconservancy.org/' target='_blank'>supporting FCVC</a>.",
-		"thanksOnly": "Thanks for <a href='https://www.frenchcreekconservancy.org/' target='_blank'>supporting FCVC</a>."
+		"thanks": "Thanks in advance for supporting <a href='https://www.frenchcreekconservancy.org/' target='_blank'>FCVC</a>.",
+		"ask": "Thanks in advance for supporting <a href='https://www.frenchcreekconservancy.org/' target='_blank'>FCVC</a>.",
+		"thanksOnly": "Thanks for supporting <a href='https://www.frenchcreekconservancy.org/' target='_blank'>FCVC</a>."
 	},
 	{
 		"charity": "The Water Project Donation Fund",
