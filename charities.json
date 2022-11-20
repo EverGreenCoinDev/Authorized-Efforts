@@ -59,22 +59,22 @@
 		"EGCaddress": "EaddaRHAjVdnxzY1DeJ13Uuifaino48cjo",
 		"url": "https://www.greenpeace.org/international/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2018/12/Greenpeace_logo200.png",
-		"EGCurl": "https://evergreencoin.org/product/greenpeace-donation-fund/",
+		"EGCurl": "https://www.greenpeace.org/",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/11/Greenpeace_EGC_Fundraiser.png",
-		"thanks": "Thanks for supporting <a href='https://evergreencoin.org/product/greenpeace-donation-fund/' target='_blank'>our group donation to Greenpeace</a>.",
-		"ask": "We are gathering donations to make a group donation to Greenpeace in appreciation of all their countless efforts. <a href='https://evergreencoin.org/product/greenpeace-donation-fund/' target='_blank'>Read more</a>.",
-		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/greenpeace-donation-fund/' target='_blank'>our group donation to Greenpeace</a>."
+		"thanks": "Thanks for supporting our group donation to <a href='https://www.greenpeace.org/' target='_blank'>Greenpeace</a>.",
+		"ask": "We are gathering donations to make a group donation to <a href='https://www.greenpeace.org/' target='_blank'>Greenpeace</a> in appreciation of all their countless efforts.",
+		"thanksOnly": "Thanks for supporting our group donation to  <a href='https://www.greenpeace.org/' target='_blank'>Greenpeace</a>."
 	},
 	{
 		"charity": "NRDC Donation Fund",
 		"EGCaddress": "EHcSwz3wusbC1jC9Rpdp5jybmNqWyLNckd",
 		"url": "https://www.nrdc.org/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2018/12/NRDC200.png",
-		"EGCurl": "https://evergreencoin.org/product/nrdc-fundraising/",
+		"EGCurl": "https://www.nrdc.org/",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/11/nrdcEGConeWorld.png",
-		"thanks": "Thanks for supporting <a href='https://evergreencoin.org/product/nrdc-fundraising/' target='_blank'>our group donation to NRDC</a>.",
-		"ask": "We are gathering donations to make a group donation to NRDC in appreciation of all their countless efforts. <a href='https://evergreencoin.org/product/nrdc-fundraising/' target='_blank'>Read more</a>.",
-		"thanksOnly": "Thanks for supporting <a href='https://evergreencoin.org/product/nrdc-fundraising/' target='_blank'>our group donation to NRDC</a>."
+		"thanks": "Thanks for supporting our group donation to <a href='https://www.nrdc.org/' target='_blank'>NRDC</a>.",
+		"ask": "We are gathering donations to make a group donation to <a href='https://www.nrdc.org/' target='_blank'>NRDC</a> in appreciation of all their countless efforts.",
+		"thanksOnly": "Thanks for supporting our group donation to <a href='https://www.nrdc.org/' target='_blank'>NRDC</a>."
 	},
 	{
 		"charity": "Kakuma General Fund",
