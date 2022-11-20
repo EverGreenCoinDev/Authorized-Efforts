@@ -63,7 +63,7 @@
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2018/11/Greenpeace_EGC_Fundraiser.png",
 		"thanks": "Thanks for supporting our group donation to <a href='https://www.greenpeace.org/' target='_blank'>Greenpeace</a>.",
 		"ask": "We are gathering donations to make a group donation to <a href='https://www.greenpeace.org/' target='_blank'>Greenpeace</a> in appreciation of all their countless efforts.",
-		"thanksOnly": "Thanks for supporting our group donation to  <a href='https://www.greenpeace.org/' target='_blank'>Greenpeace</a>."
+		"thanksOnly": "Thanks for supporting our group donation to <a href='https://www.greenpeace.org/' target='_blank'>Greenpeace</a>."
 	},
 	{
 		"charity": "NRDC Donation Fund",
@@ -94,9 +94,9 @@
 		"img": "https://evergreencoin.org/wp-content/uploads/2019/01/SierraClub.png",
 		"EGCurl": "http://sierraclub.org/",
 		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2019/01/EGCSierraClub.png",
-		"thanks": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/'>Sierra Club</a>.",
-		"ask": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/'>Sierra Club</a>.",
-		"thanksOnly": "Thank you for helping EGC to show Sierra Club our appreciation and support!"
+		"thanks": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/' target='_blank'>Sierra Club</a>.",
+		"ask": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/' target='_blank'>Sierra Club</a>.",
+		"thanksOnly": "Thank you for helping EGC to show for <a href='http://sierraclub.org/' target='_blank'>Sierra Club</a> our appreciation and support!"
 	},
 	{
 		"charity": "EcoWealth Direct Donation",
