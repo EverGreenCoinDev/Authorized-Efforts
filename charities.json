@@ -77,6 +77,17 @@
 		"thanksOnly": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation."
 	},
 	{
+		"charity": "War on Plastics Direct Donation",
+		"EGCaddress": "EL98MH71QMfmyzW8khMEcmjjfSFynpgCpD",
+		"url": "https://waronplastics.co.uk/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2021/12/WarOnPlastics.jpg",
+		"EGCurl": "https://twitter.com/PlasticsWar",
+		"EGCimg": "https://i1.wp.com/evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/12/2021/20211031_165205.jpg?w=700&ssl=1",
+		"thanks": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
+		"ask": "Please consider supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
+		"thanksOnly": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!"
+	},
+	{
 		"charity": "Trees For Cities Donation Fund",
 		"EGCaddress": "EZ6w2gtdskCmBuNpMcpdLXgpcxh7fMb2wr",
 		"url": "https://treesforcities.org/",
@@ -174,17 +185,6 @@
 		"thanks": "Thanks in advance for donating to <a href='https://hth.world/' target='_blank'>Help The Homeless Worldwide</a>!",
 		"ask": "Please consider donating to <a href='https://hth.world/' target='_blank'>Help The Homeless Worldwide</a>!",
 		"thanksOnly": "Thanks for donating to <a href='https://hth.world/' target='_blank'>Help The Homeless Worldwide</a>!"
-	},
-	{
-		"charity": "War on Plastics Direct Donation",
-		"EGCaddress": "EL98MH71QMfmyzW8khMEcmjjfSFynpgCpD",
-		"url": "https://waronplastics.co.uk/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2021/12/WarOnPlastics.jpg",
-		"EGCurl": "https://twitter.com/PlasticsWar",
-		"EGCimg": "https://i1.wp.com/evergreencoin.org/wp-content/uploads/ninja-forms/8/proof-of-environment-poe-work-share-submission-form/12/2021/20211031_165205.jpg?w=700&ssl=1",
-		"thanks": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
-		"ask": "Please consider supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
-		"thanksOnly": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!"
 	},
 	{
 		"charity": "Moses West Foundation Donation Fund",
