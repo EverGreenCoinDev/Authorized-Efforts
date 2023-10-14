@@ -11,6 +11,17 @@
 		"thanksOnly": "Thank you for donating to this month's <a href='https://evergreencoin.org/poe/'>Proof of Environment</a> reward pool."
 	},
 	{
+		"charity": "Development Fund",
+		"EGCaddress": "EX5pZt5nT1mNrJq3t3g2kZfEXzhY1RUYC5",
+		"url": "https://evergreencoin.org/product/development-fund/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2020/11/greenIos.png",
+		"EGCurl": "https://evergreencoin.org/product/development-fund/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2020/11/EGCiOSdonate.png",
+		"thanks": "Thanks in advance for helping our <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development fund</a>!",
+		"ask": "In an effort to raise funding for outsourced <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development</a>, we are requesting donations.",
+		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>our development fund</a> and helping EGC grow!"
+	},
+	{
 		"charity": "EGC Renewables Donation",
 		"EGCaddress": "EamRBfnttBGkY1WKY3k5tUi4VVinr6Dpmo",
 		"url": "https://evergreencoin.org/egcrenewables/",
@@ -22,6 +33,28 @@
 		"thanksOnly": "Thank you for supporting these on-going costs of the EGC solar web wallets and EGC solar stake box projects."
 	},
 	{
+		"charity": "Golden Gate EverGreenCoin PoE Direct Donation",
+		"EGCaddress": "EHKiTDgRzGyKozRgZFS6fSh9sBMPLPXoLe",
+		"url": "https://www.facebook.com/groups/926518345098342",
+		"img": "https://evergreencoin.org/wp-content/uploads/2023/10/GoldenGate.png",
+		"EGCurl": "https://www.facebook.com/groups/926518345098342",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2023/10/GGsanfranPoEtext.png",
+		"thanks": "Thanks in advance for donating to <a href='https://www.facebook.com/groups/926518345098342' target='_blank'>Golden Gate EverGreenCoin PoE</a>!",
+		"ask": "Please consider donating to <a href='https://www.facebook.com/groups/926518345098342' target='_blank'>Golden Gate EverGreenCoin PoE</a>!",
+		"thanksOnly": "Thanks for donating to <a href='https://www.facebook.com/groups/926518345098342' target='_blank'>Golden Gate EverGreenCoin PoE</a>!"
+	},
+	{
+		"charity": "Wood Wide Web Direct Donation",
+		"EGCaddress": "ETnubCkzqGcfvBMoJ7c7iNpScEfkRoG1xb",
+		"url": "https://twitter.com/TheWoodWideWeb",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/10/WoodWideWeb.jpg",
+		"EGCurl": "https://twitter.com/TheWoodWideWeb",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/01/EGCencrypt0NFTs.jpg",
+		"thanks": "Thanks in advance for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
+		"ask": "Please consider donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
+		"thanksOnly": "Thanks for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!"
+	},
+	{
 		"charity": "Wolfman Farms Urban Garden Direct Donation",
 		"EGCaddress": "EK8hHyGU47j1NzyK8Nyo92yjXXBKEP9ZSU",
 		"url": "https://twitter.com/Wolfmanfarms",
@@ -31,6 +64,17 @@
 		"thanks": "Direct donations to Wolfman Farms urban garden in Alabama.",
 		"ask": "Please help support Wolfman Farms (Harton Farms) urban garden in Alabama via direct donation.",
 		"thanksOnly": "Thank you for helping to support Wolfman Farms urban garden in Alabama via direct donation."
+	},
+	{
+		"charity": "EcoWealth Direct Donation",
+		"EGCaddress": "EKERqgtcFFFCuz93aHbaQZ2PVVw9ceGmK6",
+		"url": "https://twitter.com/Eco_Wealth",
+		"img": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthSitSq.png",
+		"EGCurl": "https://evergreencoin.org/directory/ecowealth/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthShine.png",
+		"thanks": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation.",
+		"ask": "EcoWealth is a Golden Botanic and Hydrologic Archetype Making Botany and Hydrology a Global Force of Work with EverGreenCoin.org, Incorporating Mass Meditations and Reiki Healing. Support via direct donation.",
+		"thanksOnly": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation."
 	},
 	{
 		"charity": "Trees For Cities Donation Fund",
@@ -66,7 +110,7 @@
 		"thanksOnly": "Thanks for supporting our group donation to <a href='https://www.nrdc.org/' target='_blank'>NRDC</a>."
 	},
 	{
-		"charity": "Kakuma General Fund",
+		"charity": "Kakuma General Donation Fund",
 		"EGCaddress": "EUqKdRXgYJRs6N5LFwjatp7oKg38s3jBQq",
 		"url": "https://evergreencoin.org/product/kakuma-general-fund/",
 		"img": "https://evergreencoin.org/wp-content/uploads/2019/02/EGCKakumaInternetSq.png",
@@ -86,17 +130,6 @@
 		"thanks": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/' target='_blank'>Sierra Club</a>.",
 		"ask": "By community demand, we are collecting a group donation for <a href='http://sierraclub.org/' target='_blank'>Sierra Club</a>.",
 		"thanksOnly": "Thank you for helping EGC to show for <a href='http://sierraclub.org/' target='_blank'>Sierra Club</a> our appreciation and support!"
-	},
-	{
-		"charity": "EcoWealth Direct Donation",
-		"EGCaddress": "EKERqgtcFFFCuz93aHbaQZ2PVVw9ceGmK6",
-		"url": "https://twitter.com/Eco_Wealth",
-		"img": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthSitSq.png",
-		"EGCurl": "https://evergreencoin.org/directory/ecowealth/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthShine.png",
-		"thanks": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation.",
-		"ask": "EcoWealth is a Golden Botanic and Hydrologic Archetype Making Botany and Hydrology a Global Force of Work with EverGreenCoin.org, Incorporating Mass Meditations and Reiki Healing. Support via direct donation.",
-		"thanksOnly": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation."
 	},
 	{
 		"charity": "French Creek Valley Conservancy Donation Fund",
@@ -130,28 +163,6 @@
 		"thanks": "<a href='https://www.notonemore.net/' target='_blank'>Not One More, Inc.</a> is a 501c3 non-profit that supports those with substance use disorders and their loved ones within their networks across the USA.",
 		"ask": "<a href='https://www.notonemore.net/' target='_blank'>Not One More, Inc.</a> is a 501c3 non-profit that supports those with substance use disorders and their loved ones within their networks across the USA.",
 		"thanksOnly": "<a href='https://www.notonemore.net/' target='_blank'>Not One More, Inc.</a> is a 501c3 non-profit that supports those with substance use disorders and their loved ones within their networks across the USA."
-	},
-	{
-		"charity": "Development Fund",
-		"EGCaddress": "EX5pZt5nT1mNrJq3t3g2kZfEXzhY1RUYC5",
-		"url": "https://evergreencoin.org/product/development-fund/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2020/11/greenIos.png",
-		"EGCurl": "https://evergreencoin.org/product/development-fund/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2020/11/EGCiOSdonate.png",
-		"thanks": "Thanks in advance for helping our <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development fund</a>!",
-		"ask": "In an effort to raise funding for outsourced <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development</a>, we are requesting donations.",
-		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>our development fund</a> and helping EGC grow!"
-	},
-	{
-		"charity": "Wood Wide Web Direct Donation",
-		"EGCaddress": "ETnubCkzqGcfvBMoJ7c7iNpScEfkRoG1xb",
-		"url": "https://twitter.com/TheWoodWideWeb",
-		"img": "https://evergreencoin.org/wp-content/uploads/2022/10/WoodWideWeb.jpg",
-		"EGCurl": "https://twitter.com/TheWoodWideWeb",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/01/EGCencrypt0NFTs.jpg",
-		"thanks": "Thanks in advance for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
-		"ask": "Please consider donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
-		"thanksOnly": "Thanks for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!"
 	},
 	{
 		"charity": "Help The Homeless Worldwide Donation Fund",
