@@ -11,28 +11,6 @@
 		"thanksOnly": "Thank you for donating to this month's <a href='https://evergreencoin.org/poe/'>Proof of Environment</a> reward pool."
 	},
 	{
-		"charity": "Development Fund",
-		"EGCaddress": "EX5pZt5nT1mNrJq3t3g2kZfEXzhY1RUYC5",
-		"url": "https://evergreencoin.org/product/development-fund/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2020/11/greenIos.png",
-		"EGCurl": "https://evergreencoin.org/product/development-fund/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2020/11/EGCiOSdonate.png",
-		"thanks": "Thanks in advance for helping our <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development fund</a>!",
-		"ask": "In an effort to raise funding for outsourced <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>development</a>, we are requesting donations.",
-		"thanksOnly": "Thanks for helping <a href='https://evergreencoin.org/product/development-fund/' target='_blank'>our development fund</a> and helping EGC grow!"
-	},
-	{
-		"charity": "EGC Renewables Donation",
-		"EGCaddress": "EamRBfnttBGkY1WKY3k5tUi4VVinr6Dpmo",
-		"url": "https://evergreencoin.org/egcrenewables/",
-		"img": "https://evergreencoin.org/logos/1x/renewablesmdpi.png",
-		"EGCurl": "https://evergreencoin.org/egcrenewables/",
-		"EGCimg": "https://evergreencoin.org/logos/1x/renewables-txtmdpi.png",
-		"thanks": "Thanks in advance for helping with on-going development and equipment costs of the Solar Web Wallet System and the EGC Solar Staker projects.",
-		"ask": "Please help us absorb the many costs associated with the <a href='https://evergreencoin.org/egcrenewables/'>EGC Solar Web Wallet System</a> and EGC Solar Stake Box projects.",
-		"thanksOnly": "Thank you for supporting these on-going costs of the EGC solar web wallets and EGC solar stake box projects."
-	},
-	{
 		"charity": "Golden Gate EverGreenCoin PoE Direct Donation",
 		"EGCaddress": "EHKiTDgRzGyKozRgZFS6fSh9sBMPLPXoLe",
 		"url": "https://www.facebook.com/groups/926518345098342",
