@@ -22,17 +22,6 @@
 		"thanksOnly": "Thanks for donating to <a href='https://www.facebook.com/groups/926518345098342' target='_blank'>Golden Gate EverGreenCoin PoE</a>!"
 	},
 	{
-		"charity": "Trumbull Soil and Water Conservation District Donation Fund",
-		"EGCaddress": "EdLMMiVm5M38XFka8fev6JyHq4zC5gjTtT",
-		"url": "http://swcd.co.trumbull.oh.us/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
-		"EGCurl": "http://swcd.co.trumbull.oh.us/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
-		"thanks": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
-		"ask": "Please consider supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
-		"thanksOnly": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!"
-	},
-	{
 		"charity": "War on Plastics Direct Donation",
 		"EGCaddress": "EL98MH71QMfmyzW8khMEcmjjfSFynpgCpD",
 		"url": "https://waronplastics.co.uk/",
@@ -42,6 +31,17 @@
 		"thanks": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
 		"ask": "Please consider supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!",
 		"thanksOnly": "Thanks for supporting <a href='https://waronplastics.co.uk/' target='_blank'>War on Plastics</a>!"
+	},
+	{
+		"charity": "Trumbull Soil and Water Conservation District Donation Fund",
+		"EGCaddress": "EdLMMiVm5M38XFka8fev6JyHq4zC5gjTtT",
+		"url": "http://swcd.co.trumbull.oh.us/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
+		"EGCurl": "http://swcd.co.trumbull.oh.us/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
+		"thanks": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
+		"ask": "Please consider supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
+		"thanksOnly": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!"
 	},
 	{
 		"charity": "Trees For Cities Donation Fund",
