@@ -22,37 +22,15 @@
 		"thanksOnly": "Thanks for donating to <a href='https://www.facebook.com/groups/926518345098342' target='_blank'>Golden Gate EverGreenCoin PoE</a>!"
 	},
 	{
-		"charity": "Wood Wide Web Direct Donation",
-		"EGCaddress": "ETnubCkzqGcfvBMoJ7c7iNpScEfkRoG1xb",
-		"url": "https://twitter.com/TheWoodWideWeb",
-		"img": "https://evergreencoin.org/wp-content/uploads/2022/10/WoodWideWeb.jpg",
-		"EGCurl": "https://twitter.com/TheWoodWideWeb",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/01/EGCencrypt0NFTs.jpg",
-		"thanks": "Thanks in advance for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
-		"ask": "Please consider donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!",
-		"thanksOnly": "Thanks for donating to <a href='https://twitter.com/TheWoodWideWeb' target='_blank'>Wood Wide Web</a>!"
-	},
-	{
-		"charity": "Wolfman Farms Urban Garden Direct Donation",
-		"EGCaddress": "EK8hHyGU47j1NzyK8Nyo92yjXXBKEP9ZSU",
-		"url": "https://twitter.com/Wolfmanfarms",
-		"img": "https://evergreencoin.org/wp-content/uploads/2019/01/WolfmanFarms.png",
-		"EGCurl": "http://evergreencoin.org/EGCGardens/",
-		"EGCimg": "https://evergreencoin.org/logos/1x/garden-txtmdpi.png",
-		"thanks": "Direct donations to Wolfman Farms urban garden in Alabama.",
-		"ask": "Please help support Wolfman Farms (Harton Farms) urban garden in Alabama via direct donation.",
-		"thanksOnly": "Thank you for helping to support Wolfman Farms urban garden in Alabama via direct donation."
-	},
-	{
-		"charity": "EcoWealth Direct Donation",
-		"EGCaddress": "EKERqgtcFFFCuz93aHbaQZ2PVVw9ceGmK6",
-		"url": "https://twitter.com/Eco_Wealth",
-		"img": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthSitSq.png",
-		"EGCurl": "https://evergreencoin.org/directory/ecowealth/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2019/02/EcoWealthShine.png",
-		"thanks": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation.",
-		"ask": "EcoWealth is a Golden Botanic and Hydrologic Archetype Making Botany and Hydrology a Global Force of Work with EverGreenCoin.org, Incorporating Mass Meditations and Reiki Healing. Support via direct donation.",
-		"thanksOnly": "Thank you for helping to support EcoWealth in Los Angeles, California, via direct donation."
+		"charity": "Trumbull Soil and Water Conservation District Donation Fund",
+		"EGCaddress": "EdLMMiVm5M38XFka8fev6JyHq4zC5gjTtT",
+		"url": "http://swcd.co.trumbull.oh.us/",
+		"img": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
+		"EGCurl": "http://swcd.co.trumbull.oh.us/",
+		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
+		"thanks": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
+		"ask": "Please consider supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
+		"thanksOnly": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!"
 	},
 	{
 		"charity": "War on Plastics Direct Donation",
@@ -229,16 +207,5 @@
 		"thanks": "Thanks for supporting <a href='https://us.whales.org/' target='_blank'>Whale & Dolphin Conservation</a>!",
 		"ask": "Please consider supporting <a href='https://us.whales.org/' target='_blank'>Whale & Dolphin Conservation</a>!",
 		"thanksOnly": "Thanks for supporting <a href='https://us.whales.org/' target='_blank'>Whale & Dolphin Conservation</a>!"
-	},
-	{
-		"charity": "Trumbull Soil and Water Conservation District Donation Fund",
-		"EGCaddress": "EdLMMiVm5M38XFka8fev6JyHq4zC5gjTtT",
-		"url": "http://swcd.co.trumbull.oh.us/",
-		"img": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
-		"EGCurl": "http://swcd.co.trumbull.oh.us/",
-		"EGCimg": "https://evergreencoin.org/wp-content/uploads/2022/05/trumbullswcd2x.png",
-		"thanks": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
-		"ask": "Please consider supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!",
-		"thanksOnly": "Thanks for supporting <a href='http://swcd.co.trumbull.oh.us/' target='_blank'>Trumbull Soil and Water Conservation District</a> Donation Fund!"
 	}
 ]
